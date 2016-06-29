@@ -1,0 +1,17 @@
+C:/Modeltech_pe_edu_10.4a/datapath/awgn_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/datapath/awgn_tb.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module awgn_tb
+
+Top level modules:
+	awgn_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/datapath/awgn.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/datapath/awgn.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module awgn
+-- Compiling module tausworthe
+
+Top level modules:
+	awgn
+	tausworthe
+
+} {} {}}
